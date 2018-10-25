@@ -1,0 +1,12 @@
+{
+  "name": "update_loadbalancer_rules",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  },
+  "author": "netapp",
+  "license": "ISC"
+}

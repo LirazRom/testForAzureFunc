@@ -1,0 +1,11 @@
+{
+  "bindings": [
+    {
+      "name": "myQueueItem",
+      "type": "queueTrigger",
+      "direction": "in",
+      "queueName": "triggerupdate",
+      "connection": "storage_account_connection"
+    }
+  ]
+}
